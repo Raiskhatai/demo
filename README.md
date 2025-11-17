@@ -1,3 +1,3 @@
 # demo
-first git repository <br>
+first git repository 
 author - rais khatai
